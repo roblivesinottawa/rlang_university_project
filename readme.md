@@ -5,4 +5,4 @@ Tech stack:
 - VS code 
 - Jupyter notebooks
 
-- Some of the code will be written in VS code and some other scripts will be written in Jupyter notebooks.
+- The code will be written in Jupyter notebooks on VS code.
